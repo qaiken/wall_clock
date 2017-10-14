@@ -1,5 +1,10 @@
 # Wall Clock
 
+Assumptions:
+
+* There is no seconds hand and the minute hand snaps to the minute mark
+* We want the smallest angle between the hands
+
 ```
 npm run clock_angle [time in digital format] [radians or degrees]
 ```
