@@ -1,0 +1,16 @@
+{
+  "name": "wall_clock",
+  "version": "1.0.0",
+  "description": "Finds the smallest angle between the hour hand and minute hand of a clock",
+  "main": "index.js",
+  "scripts": {
+    "clock_angle": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Clock",
+    "Angle"
+  ],
+  "author": "Quinton Aiken",
+  "license": "ISC"
+}
